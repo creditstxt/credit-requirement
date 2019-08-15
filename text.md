@@ -4,7 +4,7 @@ Development Draft
 
 ## Purpose
 
-These terms ensure that this software project, and contributors to it, receive due public credit for their contributions to goods and services produced with their work, to build project credibility and contributor reputations.
+These terms ensure that this software project, and contributors to it, receive due credit for their contributions to goods and services produced with their work, to build project credibility and contributor reputations.
 
 ## Credit
 
@@ -12,11 +12,13 @@ As an additional condition to the public license for this software, you must giv
 
 ## How to Credit
 
-In general, you must give credit in such a way that the audience for your good or service, and the public at large, can freely and readily find a written notice identifying:
+In general, you must give credit in such a way that the audience for your good or service can freely and readily find a written notice identifying:
 
 1.  each contributor, by name, as a contributor to this software
 
 2.  this software project, by name, as a contribution to your good or service
+
+The audience for your good or service must be free to share, publish, and use that notice for any purpose.
 
 ## Conventions
 
