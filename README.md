@@ -17,3 +17,7 @@ That text is a [flipped form](https://flippedform.com/) in everyday English.  If
 - [ ] Compile a registry of projects using the terms.
 
 - [ ] Submit the text to [SPDX](https://spdx.org) for standardization as a license exception.
+
+## Permission
+
+Each contributor licenses you to do everything with the Software Credit Requirement that would otherwise infringe that contributor’s copyright in it.
