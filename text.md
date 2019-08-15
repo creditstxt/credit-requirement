@@ -16,7 +16,7 @@ In general, you must give credit in such a way that the audience for your good o
 
 ## Conventions
 
-Where widespread convention dictates a particular way to give credit for your kind of good or service, follow that convention.  For distributed software, give credit in documentation and notice files.  For software provided as a service, give credits in `credits.txt`, according to <https://creditstxt.com>.
+Where widespread convention dictates a particular way to give credit for your kind of good or service, follow that convention.  For distributed software, give credit in documentation and notice files.  For software provided as a web service, give credits in `credits.txt`, according to <https://creditstxt.com>.
 
 ## Who to Credit
 
