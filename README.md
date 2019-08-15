@@ -17,3 +17,11 @@ That text is a [flipped form](https://flippedform.com/) in everyday English.  If
 - [ ] Compile a registry of projects using the terms.
 
 - [ ] Submit the text to [SPDX](https://spdx.org) for standardization as a license exception.
+
+## Permission
+
+Each contributor licenses you to do everything with the legal text that would otherwise infringe that contributor’s copyright in it.
+
+If you make changes to the legal text, you must change or remove the title "Credit Requirement".
+
+***As far as the law allows, the legal text comes as is, without any warranty at all, and no contributor will be liable to anyone for any damages related to the text or its use, for any kind of legal claim.***
