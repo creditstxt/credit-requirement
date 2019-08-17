@@ -26,4 +26,8 @@ Where widespread convention dictates a particular way to give credit for your ki
 
 ## Who to Credit
 
-If this software provides project and contributor names in a conventional way, you may rely on that information for accuracy and completeness in giving credit.  For example, if this software includes project and contributor name information in standardized software package metadata, as output from an `about` subcommand or `--about` flag, in an "about" screen, or on an "about" page linked from pages served by this software, you may rely on the accuracy and completeness of that information.  If this software does not provide project and contributor names, and no link to source code repository where it can be found, you need not perform independent research to find contributor names to credit.
+If this software includes project and contributor name information in a conventional way, such as in software package metadata or on an "about" page or screen, you may rely on that information for accuracy and completeness in giving credit.
+
+If this software does include project and contributor name information, but includes a link to a webpage for the project, you must investigate that webpage for credit information.
+
+If this software provides neither name information nor a project-webpage link, you do not have to perform independent research to find names to credit.
