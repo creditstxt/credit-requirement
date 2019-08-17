@@ -22,7 +22,7 @@ The audience for your work must be free to share, publish, and use that notice f
 
 ## Conventions
 
-Where widespread convention dictates a particular way to give credit for your kind of work, follow that convention.  For distributed software, give credit in documentation and notice files.  For software provided as a web service, give credits in `credits.txt`, according to <https://creditstxt.com>.
+Where widespread convention dictates a particular way to give credit for your kind of work, follow that convention.  For software provided in copies to run or install, give credit in documentation and notice files.  For software provided as a web service, give credits in `credits.txt`, according to <https://creditstxt.com>.
 
 ## Who to Credit
 
