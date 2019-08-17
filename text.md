@@ -4,25 +4,25 @@ Development Draft
 
 ## Purpose
 
-These terms ensure that this software project, and contributors to it, receive due credit for their contributions to goods and services produced with their work, to build project credibility and contributor reputations.
+These terms ensure that this software project, and contributors to it, receive due credit for their contributions to other work, to build project credibility and contributor reputations.
 
 ## Credit
 
-As an additional condition to the public license for this software, you must give this software project, and each each contributor to it, credit for other goods and services that you produce and provide using this software.
+As an additional condition to the public license for this software, you must give this software project, and each each contributor to it, credit for contribution to other works, be they goods or services, that you produce or provide using this software.
 
 ## How to Credit
 
-In general, you must give credit in such a way that the audience for your good or service can freely and readily find a written notice identifying:
+In general, you must give credit in such a way that the audience for your work can freely and readily find a written notice identifying:
 
 1.  each contributor, by name, as a contributor to this software
 
-2.  this software project, by name, as a contribution to your good or service
+2.  this software project, by name, as a contribution to your work
 
-The audience for your good or service must be free to share, publish, and use that notice for any purpose.
+The audience for your work must be free to share, publish, and use that notice for any purpose.
 
 ## Conventions
 
-Where widespread convention dictates a particular way to give credit for your kind of good or service, follow that convention.  For distributed software, give credit in documentation and notice files.  For software provided as a web service, give credits in `credits.txt`, according to <https://creditstxt.com>.
+Where widespread convention dictates a particular way to give credit for your kind of work, follow that convention.  For distributed software, give credit in documentation and notice files.  For software provided as a web service, give credits in `credits.txt`, according to <https://creditstxt.com>.
 
 ## Who to Credit
 
