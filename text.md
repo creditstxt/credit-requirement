@@ -28,6 +28,6 @@ Where widespread convention dictates a particular way to give credit for your ki
 
 If this software includes project and contributor name information in a conventional way, such as in software package metadata or on an "about" page or screen, you may rely on that information for accuracy and completeness in giving credit.
 
-If this software does include project and contributor name information, but includes a link to a webpage for the project, you must investigate that webpage for credit information.
+If this software does not include project and contributor name information, but includes a link to a webpage for the project, you must investigate that webpage for credit information.
 
 If this software provides neither name information nor a project-webpage link, you do not have to perform independent research to find names to credit.
