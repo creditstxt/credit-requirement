@@ -18,7 +18,7 @@ In general, you must give credit in such a way that the audience for your work c
 
 2.  this software project, by name, as a contribution to your work
 
-The audience for your work must be free to share, publish, and use that notice for any purpose.
+You must not do anything to stop the audience for your work from sharing, publishing, or using credits.
 
 ## Conventions
 
