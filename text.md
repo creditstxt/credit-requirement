@@ -8,7 +8,7 @@ These terms ensure that this software project, and contributors to it, receive d
 
 ## Credit
 
-As an additional condition to the public license for this software, you must give this software project, and each each contributor to it, credit for contribution to other works, be they goods or services, that you produce or provide using this software.
+As an additional condition to the public license for this software, you must give this software project, and each contributor to it, credit for contribution to other works, be they goods or services, that you produce or provide using this software.
 
 ## How to Credit
 
