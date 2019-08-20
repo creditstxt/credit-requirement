@@ -14,9 +14,9 @@ As an additional condition to the public license for this software, you must giv
 
 In general, you must give credit in such a way that the audience for your work can freely and readily find a written notice identifying:
 
-1.  each contributor, by name, as a contributor to this software
+1.  this software project, by name, as a contribution to your work
 
-2.  this software project, by name, as a contribution to your work
+2.  each contributor, by name, as a contributor to this software
 
 You must not do anything to stop the audience for your work from sharing, publishing, or using credits.
 
