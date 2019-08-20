@@ -1,6 +1,6 @@
 # Software Credit Requirement
 
-*“You aren't dead while your name is still spoken.”*
+> You aren't dead while your name is still spoken.
 
 The Software Credit Requirement is a legal tool that software developers can use to require credit for their work.  Using the Software Credit Requirement, software developers can require the same kind of credit that contributors to other kinds of work---motion pictures, music, video games, books, and so on---[already receive](./conventions.md).  They can also help to establish a norm of appropriate credit in the software industry.
 
@@ -22,7 +22,7 @@ That text is a [flipped form](https://flippedform.com/) in everyday English.  If
 
 ## Permission
 
-Each contributor licenses you to do everything with the legal text that would otherwise infringe that contributor’s copyright in it.
+Each contributor licenses you to do everything with the legal text that would otherwise infringe that contributor's copyright in it.
 
 If you make changes to the legal text, you must change or remove the title "Software Credit Requirement".
 
