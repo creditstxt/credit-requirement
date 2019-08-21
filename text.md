@@ -4,7 +4,7 @@ Development Draft
 
 ## Purpose
 
-These terms ensure that this software, and contributors to it, receive due credit for their contributions to other work, to build project credibility and contributor reputations.
+These terms ensure that this software and contributors to it receive due credit for their contributions to other work, to build project credibility and contributor reputations.
 
 ## Credit
 
