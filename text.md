@@ -2,10 +2,6 @@
 
 Development Draft
 
-## Purpose
-
-These terms ensure that this software and contributors to it receive due credit for their contributions to other work, to build project credibility and contributor reputations.
-
 ## Credit
 
 You must give this software and each contributor credit for contribution to other works, be they goods or services, that you produce or provide using this software.
