@@ -2,6 +2,10 @@
 
 Development Draft
 
+## Requirement
+
+These terms add to the terms of the license for this software.  These terms become additional obligations under any agreement on those terms, as well as conditions to the license.
+
 ## Credit
 
 You must give this software and each contributor credit for contribution to other works, be they goods or services, that you produce or provide using this software.
